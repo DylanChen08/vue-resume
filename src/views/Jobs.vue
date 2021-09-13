@@ -10,7 +10,7 @@
         </header>
         <ul>
           <li>
-            负责小萌维修 <strong>部分 NodeJS</strong> 开发和前端开发工作
+            负责小萌维修<strong>前端开发工作</strong>和部分 NodeJS开发
           </li>
           <li>
             负责团队<strong>基础库开发</strong>、文档撰写，确保公司业务正常运行。
