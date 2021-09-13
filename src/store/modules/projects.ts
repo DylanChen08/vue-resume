@@ -36,7 +36,7 @@ export default ({
                 + '<p>\n' +
                 '主要组件有博客发表、博客更新、<strong>回复讨论</strong>、分页、条件排序，标签查看等。\n' + '\n' + ' </p>\n' + '<p>\n'
                 + '\n' + '</p>\n' + ' <p>\n' +
-                '本次开发让我很好的使用了promise，对异步操作更加熟悉\n'
+                '本次开发让我很好的使用了promise，对异步操作更加熟悉。\n'
         }, {
             projectName: 'React - 每天一记',
             private: false,
@@ -48,7 +48,7 @@ export default ({
                 + '\n' + '</p>\n' + '<p>\n' +
                 '主要组件有日期记账、标签记账、<strong>统计视图</strong> 、滑动更新、按日期和标签查看等。\n' + '\n' + ' </p>\n' + '<p>\n' +
                 '\n' + '</p>\n' + ' <p>\n' +
-                '该项目使我对 webpack 和 Hooks API、SVG Icon 有了深入的理解，\n' + ' </p>\n' + '<p>\n' +
+                '该项目使我对 webpack 和 Hooks API、SVG Icon 有了深入的理解。\n' + ' </p>\n' + '<p>\n' +
                 '我将这些开发心得和理解都记录在博客里。\n' + '</p>'
         }, {
             projectName: '小萌维修',
