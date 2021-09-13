@@ -32,7 +32,7 @@ export default ({
             projectsPreview: 'https://dylanchen08.github.io/vue-blog-website/',
             rawHtml: '<p>\n' +
                 '一款基于 <strong> Vue </strong> / <strong> Vuex </strong> / ' +
-                '<strong> ElementUI </strong>/ <strong> NodeJs </strong>的 <strong>PC端</strong>博客系统。\n' + '\n' + '</p>\n'
+                '<strong> ElementUI </strong>/ <strong> NodeJs </strong>的 <strong>PC端</strong> 博客系统。\n' + '\n' + '</p>\n'
                 + '<p>\n' +
                 '主要组件有博客发表、博客更新、<strong>回复讨论</strong>、分页、条件排序，标签查看等。\n' + '\n' + ' </p>\n' + '<p>\n'
                 + '\n' + '</p>\n' + ' <p>\n' +

@@ -18,7 +18,7 @@ export default {
       return ' <ul>\n' +
           '        <li>熟悉页面制作技巧，能将设计稿<strong>完美还原</strong></li>\n' +
           '        <li>熟悉<strong>前后端分离</strong>技术，包括 AJAX、跨域、前端路由、Cookie、Session 等</li>\n' +
-          '        <li>熟练掌握 <strong>Vue全家桶</strong>的使用，包括 VueCli、VueRouter、Vuex 等</li>\n' +
+          '        <li>熟练掌握<strong>Vue全家桶</strong>的使用，包括 VueCli、VueRouter、Vuex 等</li>\n' +
           '        <li>熟练掌握 React全家桶的使用，包括 create-react-app、ReactRouter、Redux 等</li>\n' +
           '        <li>熟悉 ES6，包括 let / Promise / await 析构赋值</li>\n' +
           '        <li>了解 <strong>TypeScript</strong> 的使用，项目已经采用TS实现</li>\n' +
